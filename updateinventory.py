@@ -20,4 +20,7 @@ except (IOError):
 def get_inventory():
     return "nada"
 
-# Consultar BB
+# Consultar BBDD UCMDB
+# Exportar Objeto a Hosts YAML
+# Backup de archivo hosts
+# Agregar elementos a objeto inventario (Grupos, Hosts, Variables)
